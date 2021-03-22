@@ -198,6 +198,17 @@ input:checked + .slider:before {
   width:45px;
   right:40px;
 }
+#tip{
+  position: absolute;
+  font-family: 'Goldman', cursive;
+  font-size: 16px;
+  color:rgb(34, 34, 34);
+  background-color: rgb(91, 188, 214);
+  padding:4px;
+  border-radius: 10px;
+  width:45px;
+  right:40px;
+}
 #bpmInput:focus{
   outline: none;
 }
